@@ -17,7 +17,7 @@ Olá! Eu sou a Beatriz, uma entusiasta de 19 anos apaixonada por tecnologia e de
 
 ## Repositório Atual
 
-Confira meu repositório de estudos [aqui](link-do-seu-repositorio), onde compartilho meu aprendizado desde os fundamentos de Python até a construção de aplicações web, automação, ciência de dados, DevOps e redes.
+Confira meu repositório de estudos [aqui](link-do-seu-repositorio), onde compartilho meu aprendizado de fundamentos de Python, onde é meu foco.
 
 ## Contribuições
 
